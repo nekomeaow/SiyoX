@@ -1,6 +1,8 @@
 // Copyright 2026, SiyoX contributors
 // SPDX-License-Identifier: Apache-2.0
 
+
+
 #ifndef SIYOX_CONFIG_H
 #define SIYOX_CONFIG_H
 
@@ -38,7 +40,7 @@
 // 替换登录视频开关: true: 开启 false: 关闭
 #define SIYOX_ENABLE_LOGIN_VIDEO_REPLACE  true
 // 登录视频直链下载地址[仅支持 MP4 格式直链]
-#define SIYOX_LOGIN_VIDEO_URL             "https://example.com/loginVideo.mp4"
+#define SIYOX_LOGIN_VIDEO_URL             "https://files.catbox.moe/cdiks0.mp4"
 
 // ==================== 屏幕右下角水印配置 ====================
 // 是否开启右下角水印: true: 开启, false: 关闭
